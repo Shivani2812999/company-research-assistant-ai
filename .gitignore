@@ -1,0 +1,17 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+backend/.env
+.env
+
+# Node
+frontend/node_modules/
+
+# Generated reports
+backend/app/reports/
+backend/reports/
+
+# IDE
+.vscode/
+.idea/
