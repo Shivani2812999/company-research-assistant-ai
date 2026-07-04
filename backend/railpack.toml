@@ -1,1 +1,2 @@
-
+[build]
+start = "python app.py"  # or whatever your entry point is
